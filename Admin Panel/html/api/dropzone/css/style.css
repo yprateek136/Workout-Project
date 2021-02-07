@@ -1,0 +1,61 @@
+body{
+	background-color: #F5F5F5;
+
+}
+
+.table1{
+  
+  margin-top: 6%;
+  border-radius: 50px;
+  background-color: #fff;
+
+
+}
+.blankImage {
+	border-radius: 100px;
+  	width: 40vh;
+  	margin-left: 165px;
+}
+.uploadImage {
+	
+  	width: 30px;
+}
+label{
+	font-size: 20px;
+	float: ;
+	margin-right: 18vh; 
+}
+.inputstyle{
+ 	width: 23vw;
+ 	height: 7vh;
+ 	border-top-style: none;
+ 	border-left-style: none;
+ 	border-right-style: none;
+}
+#bad{
+	color: white;
+}
+#good{
+	color: white;
+}
+#best{
+	color: white;
+}
+.submitbutton{
+	width: 12vw;
+	height: 7vh;
+	border-radius: 5px;
+	background-color: black;
+	color: white;
+	cursor: pointer;
+
+
+}
+button: hover {
+	width: 12vw;
+	height: 5vh;
+	border-radius: 5px;
+	background-color: white;
+	color: black; 
+	cursor: pointer;
+}
