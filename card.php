@@ -77,7 +77,7 @@
 			</form>
 		</div>
 	</div>
-	<!-- buttons like-trending/bars/clubs -->
+	<!-- buttons like-trending/bars/clubs are added -->
 	<div class="container-fluid card-button ml-5">
 		
 	</div>
